@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSMS.SnippetAutocomplete", "src\SSMS.SnippetAutocomplete\SSMS.SnippetAutocomplete.csproj", "{DE49B515-5A30-4B7B-BCC1-700D75E46386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE49B515-5A30-4B7B-BCC1-700D75E46386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE49B515-5A30-4B7B-BCC1-700D75E46386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE49B515-5A30-4B7B-BCC1-700D75E46386}.Debug|x86.ActiveCfg = Debug|x86
+		{DE49B515-5A30-4B7B-BCC1-700D75E46386}.Debug|x86.Build.0 = Debug|x86
+		{DE49B515-5A30-4B7B-BCC1-700D75E46386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE49B515-5A30-4B7B-BCC1-700D75E46386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE49B515-5A30-4B7B-BCC1-700D75E46386}.Release|x86.ActiveCfg = Release|x86
+		{DE49B515-5A30-4B7B-BCC1-700D75E46386}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0E29253-3DBF-45D1-B7E2-53B6CD51E331}
+	EndGlobalSection
+EndGlobal
